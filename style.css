@@ -98,6 +98,12 @@ body {
     margin-bottom: 20px;
 }
 
+.gif-small {
+    max-width: 250px;
+    /* Smaller size for 3.gif */
+    height: auto;
+}
+
 .question-text {
     font-size: 1.5rem;
     margin-bottom: 30px;
